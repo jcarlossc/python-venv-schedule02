@@ -7,7 +7,7 @@ VENV: Um ambiente virtual em Python isola dependências do projeto, evitando con
 
 SCHEDULE: módulo de agendamento e automação de tarefas em Python, como executar scripts em horários específicos, fazer backups ou enviar e-mails periodicamente.
 
-Como dito no primeiro parágrafo, este terceiro projeto é bem simples e resume-se a explicar o funcionamento do 
+Como dito no primeiro parágrafo, este terceiro projeto é bem simples e resume-se a explicar a atualização do 
 ambiente virtual VENV e implementa um pequeno algoritmo que executa três tarefas em intervalos diferentes, com o módulo SCHEDULE.
 
 ## FERRAMENTAS UTILIZADAS
