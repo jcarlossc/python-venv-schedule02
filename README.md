@@ -1,4 +1,4 @@
-# PROJETO PYTHON - VENV/SCHEDULE
+# PROJETO PYTHON - VENV/SCHEDULE -  Executa três tarefas em intervalos de tempo diferentes.
 
 Este pequeno projeto tem o intuito de demonstrar a utilização do ambiente virtual
 VENV e o módulo SCHEDULE.
